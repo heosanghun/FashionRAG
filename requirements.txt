@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+openai
+datasets
+langchain-core
+langchain-openai
+chromadb
+open-clip-torch
+Pillow
+torch
+torchvision
+transformers
